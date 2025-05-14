@@ -1,4 +1,4 @@
-# kalpas Assignment
+# News App
 
 A flutter project which fetches the article from a news API.
 
